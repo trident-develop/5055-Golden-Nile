@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327688847206",
+    "project_id": "golden-nile-fd8dc",
+    "storage_bucket": "golden-nile-fd8dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327688847206:android:0088ecdc3a310ada63d2a7",
+        "android_client_info": {
+          "package_name": "com.com2usholdings.starsailors.android.google.global.nor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoTwPMZd3oN7y3ZvDGlksdsrpaHApDRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
