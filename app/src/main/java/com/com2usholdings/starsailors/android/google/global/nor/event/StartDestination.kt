@@ -1,0 +1,18 @@
+package com.com2usholdings.starsailors.android.google.global.nor.event
+
+sealed interface StartDestination {
+
+    data class BuiltScore(
+        val score: String
+    ) : StartDestination
+
+    data class OpenSavedScoreTypeA(
+        val score: String
+    ) : StartDestination
+
+    data class OpenSavedScoreTypeB(
+        val score: String
+    ) : StartDestination
+
+    data object OpenGame : StartDestination
+}
